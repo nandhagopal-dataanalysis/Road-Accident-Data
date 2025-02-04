@@ -15,7 +15,6 @@ Visualization: Create interactive dashboards and visualizations to present findi
 
 The analysis is based on a comprehensive dataset encompassing detailed records of road accidents, including variables such as date, time, location, weather conditions, road characteristics, involved vehicles, and casualty information. This dataset provides a robust foundation for in-depth analysis and modeling.
 
-
 # Expected Outcomes:
 
 Identification of high-risk areas and conditions associated with increased accident likelihood.
